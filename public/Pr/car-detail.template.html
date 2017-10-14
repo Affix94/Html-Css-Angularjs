@@ -1,0 +1,93 @@
+<div class="container-fluid">
+
+<div class="car-images">
+  <img ng-src="{{img}}" class="car"
+      ng-class="{selected: img === $ctrl.mainImageUrl}"
+      ng-repeat="img in $ctrl.car.images" />
+</div>
+
+<h1 class="carname">{{$ctrl.car.name}}</h1>
+<p class="description">{{$ctrl.car.description}}</p>
+
+<ul class="car-thumbs">
+  <li ng-repeat="img in $ctrl.car.images">
+    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+  </li>
+</ul>
+<ul class="specs">
+  <li>
+    <span>Vehicle Type</span>
+    <dl>
+      <dt></dt>
+      <dd>{{$ctrl.car.vehicle.type}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Engine Type</span>
+    <dl>
+      <dd ng-repeat="e in $ctrl.car.engine.type">{{e}} </dd>
+    </dl>
+  </li>
+  <li>
+    <span>Displacement</span>
+    <dl>
+      <dd>{{$ctrl.car.vehicle.disp}}</dd>
+      <dt>Power</dt>
+      <dd>{{$ctrl.car.vehicle.power}}</dd>
+      <dt>Torque</dt>
+      <dd>{{$ctrl.car.vehicle.torque}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Transmission</span>
+    <dl>
+      <dd>{{$ctrl.car.vehicle.trans}}</dd>
+      <dt>Manual</dt>
+      <dd>{{$ctrl.car.vehicle.manual | checkmark}}</dd>
+      <dt>Automatic</dt>
+      <dd>{{$ctrl.car.vehicle.automatic | checkmark}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Dimension</span>
+    <dl>
+      <dt>Wheel Base</dt>
+      <dd>{{$ctrl.car.dimension.wheelbase}}</dd>
+      <dt>Legth</dt>
+      <dd>{{$ctrl.car.dimension.length}}</dd>
+      <dt>Width</dt>
+      <dd>{{$ctrl.car.dimension.width}}</dd>
+      <dt>Height</dt>
+      <dd>{{$ctrl.car.dimension.height}}</dd>
+      <dt>Passenger Volume</dt>
+      <dd>{{$ctrl.car.dimension.pv}}</dd>
+      <dt>Cargo Volume</dt>
+      <dd>{{$ctrl.car.dimension.cv}}</dd>
+      <dt>Curb Weight</dt>
+      <dd>{{$ctrl.car.dimension.cw}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>C/D Test Results:</span>
+    <dl>
+      <dd ng-repeat="c in $ctrl.car.cd">{{c}}</dd>     
+    </dl>
+  </li>
+  <li>
+    <span>Fuel Economy</span>
+    <dl>  
+      <dd ng-repeat="f in $ctrl.car.vehicle.fuel">{{f}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Price</span>
+   <dd ng-repeat="p in $ctrl.car.price">{{p}}</dd>
+  </li>
+</ul>
+
+
+
+</div>
+
+
+

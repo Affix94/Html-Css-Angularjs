@@ -1,0 +1,55 @@
+{
+    "price": [
+        "$221,925 (base price: $218,825)"
+    ],
+    "engine": {
+        "type":[
+                "twin-turbocharged and intercooled SOHC 36-valve V-12, aluminum block and heads, port fuel injection"
+               ]
+    }, 
+    "vehicle": {
+        "type": "front-engine, 4-wheel-drive, 5-passenger, 4-door tycoon transpor",
+         "disp": "365 cu in, 5980 cc",
+        "power": "621 hp @ 5300 rpm",
+        "torque": "738 lb-ft @ 2300 rpm",
+        "trans": "7-speed",
+        "manual": true,
+        "automatic": true,
+        "fuel": [
+            "EPA city/highway driving: 11/13 mpg",
+            "C/D observed: 10 mpg"  
+        ]
+    },
+    "cd": [
+            "Zero to 60 mph: 5.1 sec",
+            "Zero to 100 mph: 12.2 sec",
+            "Zero to 140 mph: 28.1 sec",
+            "Rolling start, 5-60 mph: 5.6 sec",
+            "Top gear, 30-50 mph: 3.1 sec",
+            "Top gear, 50-70 mph: 3.8 sec",
+            "Standing ¼-mile: 13.6 sec @ 105 mph",
+            "Top speed (gov limited): 140 mph",
+            "Braking, 70-0 mph: 165 ft",
+            "Roadholding, 300-ft-dia skidpad: 0.58 g"
+        ],
+    "dimension": {
+        "wheelbase": "112.2 in", 
+        "length": "187.5 in", 
+        "width": "73.0 in", 
+        "height": "76. in", 
+        "pv": "124 cu ft",
+        "cv": "40 cu ft",
+        "cw": "6067 lb"
+    }, 
+    "description": "Breathtakingly expensive, hugely powerful, and anachronistic in looks, this is not for the shy. With roots going back to 1979, the G63 retains its basic fashionista-meets-Sandinista look. Its twin-turbo 5.5-liter V-8 makes 563 hp and 561 lb-ft and mates to a seven-speed automatic. Mercedes’ all-wheel-drive system, 4MATIC, is standard. The G65 turns up the crazy even more with a twin-turbo 6.0-liter V-12 that makes 621 hp and 738 lb-ft. Note: These models replace the Mercedes-Benz versions.", 
+   "id": "Mercedes", 
+    "images": [
+        "img/mercedes4.0.jpg", 
+        "img/mercedes4.1.jpg", 
+        "img/mercedes4.2.jpg", 
+        "img/mercedes4.3.jpg", 
+        "img/mercedes4.4.jpg", 
+        "img/mercedes4.5.jpg"
+    ], 
+    "name": "Mercedes-AMG G63 / G65 4MATIC(2016)" 
+}

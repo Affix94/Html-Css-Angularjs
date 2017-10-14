@@ -1,0 +1,80 @@
+<!--CAROUSEL
+=====================================================-->
+        <div id="myCarousel" class="carousel slide">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+    <div class="carousel-inner">   
+        <div class="item active">
+            <img src="img/slide1.jpg"</img>
+            <div class="container">
+                
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/slide2.jpg"/>
+            <div class="container">
+                
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/slide3.jpg"/>
+            <div class="container">
+                
+            </div>
+        </div>
+          <div class="item">
+            <img src="img/slide4.jpg"/>
+            <div class="container">
+                
+            </div>
+        </div>
+          <a class="left carousel-control" data-target="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" data-target="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+ </div>
+</div>
+<!--GRID(SIDEBAR AND PAGE CONTENT)
+=====================================================-->
+<!--SIDEBAR CONTENT
+=========================-->
+<div class="container">
+    <div class="row">
+        <div class="col-md-4" id="dec2">
+            <h2>First Heading</h2>
+            <div class=form-control">
+				<input ng-model="$ctrl.query" type="text" class="form-control" placeholder="Search..."/>
+					<div class="form-group">
+						<label for="sel1">Select list:</label>
+						<select ng-model="$ctrl.orderProp" class="form-control" id="sel1">
+							<option value="name">Alphabetical</option>
+							<option value="age">Newest</option>
+						</select>
+					</div>
+            </div>
+        </div>
+
+ <!--PAGE CONTENT
+=========================-->
+ <div class="col-md-8" id="dec">
+	
+<ul class="cars">
+        <li ng-repeat="car in $ctrl.cars | filter:$ctrl.query | orderBy:$ctrl.orderProp" class="thumbnail car-list-item">
+          <a href="#!/cars/{{car.id}}" class="thumb">
+            <img ng-src="{{car.imageUrl}}" alt="{{car.name}}" />
+          </a>
+          <a href="#!/cars/{{car.id}}" class="linkdet">{{car.name}}</a>
+          <p class="homedesc">{{car.snippet}}</p>
+        </li>
+      </ul>
+    </div>
+ 
+   </div>   
+</div>
+ 

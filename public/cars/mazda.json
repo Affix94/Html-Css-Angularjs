@@ -1,0 +1,65 @@
+{
+    "price": [
+        "3 i Sport sedan, $18,680;",
+        "3 i Sport hatchback, $19,380;",
+        "3 i Touring sedan, $20,880;",
+        "3 i Touring hatchback, $21,580;",
+        "3 i Grand Touring sedan, $23,380;",
+        "3 i Grand Touring hatchback, $24,080;",
+        "3 s Touring sedan, $25,630;",
+        "3 s Grand Touring sedan, $25,580;",
+        "3 s Grand Touring hatchback, $26,280;",
+        "3 s Touring hatchback: $26,330"
+    ],
+    "engine": {
+        "type":[
+                "DOHC 16-valve Atkinson-capable 2.0-liter inline-4, 155 hp, 150 lb-ft;",
+                "DOHC 16-valve Atkinson-capable 2.5-liter inline-4, 184 hp, 185 lb-ft"
+               ]
+    }, 
+    "vehicle": {
+        "type": "front-engine, front-wheel-drive, 5-passenger, 4-door sedan or 4-door hatchback",
+         "disp": "-",
+        "power": "155 hp-184 hp",
+        "torque": "150 lb-ft-185 lb-ft",
+        "trans": "6-speed",
+        "manual": true,
+        "automatic": true,
+        "fuel": [
+            "EPA city/highway driving: 25-30/35-41 mpg",
+            "C/D observed fuel economy: 29 mpg"
+        ]
+    },
+    "cd": [
+            "Zero to 60 mph: 7.5 sec",
+            "Zero to 100 mph: 21.1 sec",
+            "Zero to 120 mph: 36.0 sec",
+            "Rolling start, 5-60 mph: 8.1 sec",
+            "Top gear, 30-50 mph: 14.2 sec",
+            "Top gear, 50-70 mph: 13.8 sec",
+            "Standing ¼-mile: 16.0 sec @ 89 mph",
+            "Top speed (drag limited, C/D est): 130 mph",
+            "Braking, 70-0 mph: 175 ft",
+            "Roadholding, 300-ft-dia skidpad: 0.86 g"
+        ],
+    "dimension": {
+        "wheelbase": "106.3 in", 
+        "length": "175.6-180.3 in", 
+        "width": "70.7 in", 
+        "height": "57.3 in", 
+        "pv": "95-96 cu ft",
+        "cv": "12-20 cu ft",
+        "cw": "2900-3050 lb"
+    }, 
+    "description": " The Mazda 3 is again the brand’s entry-level model (now that the 2 is being sold as a Toyota) and also one of the best small cars. Like the Volkswagen Golf with which it competes, it’s a stalwart of our 10Best Cars list. As Mazda’s budget leader, not every 3 comes loaded with features, but even the base 155-hp 2.0-liter sedan delivers pleasing dynamic behavior, solid build quality, and impressive fuel economy. Upgrading to the 3 s model brings a 184-hp 2.5-liter four-cylinder engine with more thrust, nets standard features such as heated leather seats, and makes available options that include active safety features. It is offered with a choice of automatic or manual transmissions in a pair of four-door body styles: sedan or hatchback.", 
+   "id": "Mazda", 
+    "images": [
+        "img/mazda3.0.jpg", 
+        "img/mazda3.1.jpg", 
+        "img/mazda3.2.jpg", 
+        "img/mazda3.3.jpg", 
+        "img/mazda3.4.jpg", 
+        "img/mazda3.5.jpg"
+    ], 
+    "name": "2016 Mazda-3" 
+}

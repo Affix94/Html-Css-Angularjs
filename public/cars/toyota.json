@@ -1,0 +1,52 @@
+{
+    "price": [
+        "$58,325 (base price: $58,325)"
+    ],
+    "engine": {
+        "type":[
+                "synchronous AC, 152 hp, 247 lb-ft"
+               ]
+    }, 
+    "vehicle": {
+        "type": "front-motor, front-wheel-drive, 4-passenger, 4-door sedan",
+         "disp": "-",
+        "power": "152 hp",
+        "torque": "247 lb-ft",
+        "trans": "1-speed direct drive",
+        "manual": false,
+        "automatic": false,
+        "fuel": [
+            "EPA city/highway driving: 67/67 mPGe",
+            "C/D observed: 57 mPGe"  
+        ]
+    },
+    "cd": [
+            "Zero to 60 mph: 9.4 sec",
+            "Zero to 100 mph: 34.2 sec",
+            "Top gear, 30-50 mph: 3.9 sec",
+            "Top gear, 50-70 mph: 6.3 sec",
+            "Standing ¼-mile: 17.2 sec @ 80 mph",
+            "Top speed (drag limited): 108 mph",
+            "Braking, 70-0 mph: 194 ft"
+        ],
+    "dimension": {
+        "wheelbase": "109.4 in", 
+        "length": "92.5 in", 
+        "width": "71.5 in", 
+        "height": "60.4 in", 
+        "pv": "-",
+        "cv": "3 cu ft",
+        "cw": "4100 lb"
+    }, 
+    "description": "In Japanese, “mirai” means “future,” and the Mirai is the future of motoring: It runs solely on hydrogen and its only emissions are water. Expected later in 2015, the Mirai initially will be sold or leased just in California, where the infrastructure for hydrogen fueling exists. Range is around 300 miles, refueling will take about five minutes, and fuel is included for the first three years of ownership. The powertrain has an eight-year/100,000-mile warranty to allay early-adopter concerns.", 
+   "id": "Toyota", 
+    "images": [
+        "img/toyota8.0.jpg", 
+        "img/toyota8.1.jpg", 
+        "img/toyota8.2.jpg", 
+        "img/toyota8.3.jpg", 
+        "img/toyota8.4.jpg", 
+        "img/toyota8.5.jpg"
+    ], 
+    "name": "2016 Toyota Mirai Fuel-Cell Sedan" 
+}

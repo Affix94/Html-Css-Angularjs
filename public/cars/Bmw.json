@@ -1,0 +1,56 @@
+{
+    "price": [
+        "$96,095 (base price: $82,295);"
+    ],
+    "engine": {
+        "type":[
+                "turbocharged and intercooled DOHC 24-valve inline-6, aluminum block and head, direct fuel injection"
+               ]
+    }, 
+    "vehicle": {
+        "type": "front-engine, rear-wheel-drive, 5-passenger, 4-door sedan",
+         "disp": "183 cu in, 2998 cc",
+        "power": "320 hp @ 6500 rpm",
+        "torque": "330 lb-ft @ 1380 rpm",
+        "trans": "8-speed",
+        "manual": true,
+        "automatic": true,
+        "fuel": [
+            "EPA city/highway driving: 21/29 mpg",
+            "C/D observed: 26 mpg",
+            "Unscheduled oil additions: 0 qt"
+        ]
+    },
+    "cd": [
+            "Zero to 60 mph: 4.8 sec",
+            "Zero to 100 mph: 11.9 sec",
+            "Zero to 130 mph: 21.6 sec",
+            "Rolling start, 5-60 mph: 5.6 sec",
+            "Top gear, 30-50 mph: 2.9 sec",
+            "Top gear, 50-70 mph: 3.5 sec",
+            "Standing ¼-mile: 13.4 sec @ 105 mph",
+            "Top speed (mfr's est.): 155 mph",
+            "Braking, 70-0 mph: 159 ft",
+            "Roadholding, 300-ft-dia skidpad: 0.86 g"
+        ],
+    "dimension": {
+        "wheelbase": "126.4 in", 
+        "length": "206.6 in", 
+        "width": "74.9 in", 
+        "height": "58.2 in", 
+        "pv": "115 cu ft",
+        "cv": "18 cu ft",
+        "cw": "4385 lb"
+    }, 
+    "description": "Affluent driving enthusiasts will be delighted by the 7-series, both for its lap-of-luxury cabin and its surprising agility when the road gets twisty. The 320-hp 3.0-liter turbo inline-six is more than adequate, but the 445-hp 4.4-liter twin-turbo V-8 really hustles. Rear-drive and an eight-speed automatic are standard; all-wheel drive is optional with the V-8. The interior allows for maximum relaxation and is loaded with technology. For the ultimate 7, check out the Alpina B7 with 600 hp.", 
+   "id": "Bmw", 
+    "images": [
+        "img/bmw2.0.jpg", 
+        "img/bmw2.1.jpg", 
+        "img/bmw2.2.jpg", 
+        "img/bmw2.3.jpg", 
+        "img/bmw2.4.jpg", 
+        "img/bmw2.5.jpg"
+    ], 
+    "name": "2016 BMW 740i" 
+}

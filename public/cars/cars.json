@@ -1,0 +1,45 @@
+[
+    {
+        "age": 0, 
+        "id": "Audi-A7", 
+        "imageUrl": "img/audia7.0.jpg", 
+        "name": "2016 Audi-A7 3.0TDI", 
+        "snippet": "Audi's Autobahn beauty packs a bigger punch."
+    },
+       {
+        "age": 1, 
+        "id": "Porche", 
+        "imageUrl": "img/porche1.0.jpg", 
+        "name": "2016 Porsche Boxster Spyder", 
+        "snippet": "The last of the naturally aspirated Boxsters. It will be missed."
+    },
+     {
+        "age": 2, 
+        "id": "Mazda", 
+        "imageUrl": "img/mazda3.0.jpg", 
+        "name": "2016 Mazda-3", 
+        "snippet": "Near-perfect porridge."
+    },
+    {
+        "age": 3, 
+        "id": "Bmw", 
+        "imageUrl": "img/bmw2.0.jpg", 
+        "name": "2016 BMW 740i", 
+        "snippet": "The softer side of BMW."
+    },
+    {
+        "age": 4, 
+        "id": "Mercedes", 
+        "imageUrl": "img/mercedes4.0.jpg", 
+        "name": "2016 Mercedes-AMG G63 / G65 4MATIC", 
+        "snippet": "It's like how much more absurd could this be? And the answer is none. None more absurd."
+    },
+     {
+        "age": 5, 
+        "id": "Toyota", 
+        "imageUrl": "img/toyota8.0.jpg", 
+        "name": "2016 Toyota Mirai Fuel-Cell Sedan", 
+        "snippet": "The first fuel-cell car you, or people richer than you, can buy."
+    }
+    
+]

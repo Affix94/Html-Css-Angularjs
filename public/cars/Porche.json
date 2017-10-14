@@ -1,0 +1,55 @@
+{
+    "price": [
+        "$89,375 (base price: $83,150)"
+    ],
+    "engine": {
+        "type":[
+                "DOHC 24-valve flat-6, aluminum block and heads, direct fuel injection"
+               ]
+    }, 
+    "vehicle": {
+        "type": "mid-engine, rear-wheel-drive, 2-passenger, 2-door convertible",
+         "disp": "232 cu in, 3800 cc",
+        "power": "375 hp @ 6700 rpm",
+        "torque": "309 lb-ft @ 4750 rpm",
+        "trans": "6-speed",
+        "manual": true,
+        "automatic": false,
+        "fuel": [
+            "EPA combined/city/hwy: 20/18/24 mpg",
+            "C/D observed: 17 mpg"  
+        ]
+    },
+    "cd": [
+            "Zero to 60 mph: 4.0 sec",
+            "Zero to 100 mph: 9.1 sec",
+            "Zero to 150 mph: 22.5 sec",
+            "Rolling start, 5-60 mph: 4.7 sec",
+            "Top gear, 30-50 mph: 2.6 sec",
+            "Top gear, 50-70 mph: 3.5 sec",
+            "Standing ¼-mile: 12.2 sec @ 116 mph",
+            "Top speed (mfr's est): 180 mph",
+            "Braking, 70-0 mph: 152 ft",
+            "Roadholding, 300-ft-dia skidpad: 1.01 g"
+        ],
+    "dimension": {
+        "wheelbase": "97.4 in", 
+        "length": "173.8 in", 
+        "width": "70.9 in", 
+        "height": "49.7 in", 
+        "pv": "-",
+        "cv": "-",
+        "cw": "3040 lb"
+    }, 
+    "description": "A thorough redo of the Boxster is here, though after spending a week with the outgoing Spyder, we have to conclude that nothing needed fixing. A close kin to the Cayman GT4, the Spyder is a limited-production model that borrows the 911’s engine.The hand-me-down six comes from the older 911 Carrera S, not to be confused with the new turbocharged 3.0-liter flat-six that powers the refreshed 911. We love the old naturally aspirated 3.8-liter, even here, in its detuned, 375-hp state. It has just the right amount of snarl from the intake and a deep metallic rasp from the standard sport exhaust. This engine gives new meaning to talking behind your back.", 
+   "id": "Porche", 
+    "images": [
+        "img/porche1.0.jpg", 
+        "img/porche1.1.jpg", 
+        "img/porche1.2.jpg", 
+        "img/porche1.3.jpg", 
+        "img/porche1.4.jpg", 
+        "img/porche1.5.jpg"
+    ], 
+    "name": "2016 Audi A7 3.0T Quattro" 
+}

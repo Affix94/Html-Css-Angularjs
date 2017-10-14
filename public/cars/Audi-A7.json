@@ -1,0 +1,55 @@
+{
+    "price": [
+        "$75,425 (base price: $69,225)"
+    ],
+    "engine": {
+        "type":[
+                "supercharged and intercooled DOHC 24-valve V-6 aluminum block and heads,direct fuel injection"
+               ]
+    }, 
+    "vehicle": {
+        "type": "front-engine, 4-wheel-drive, 5-passenger, 4-door hatchback",
+         "disp": "183 cu in, 2995 cc",
+        "power": "333 hp @ 6500 rpm",
+        "torque": "325 lb-ft @ 2900 rpm",
+        "trans": "8-speed",
+        "manual": true,
+        "automatic": true,
+        "fuel": [
+            "EPA city/highway driving: 20/30 mpg",
+            "C/D observed: 20 mpg"  
+        ]
+    },
+    "cd": [
+            "Zero to 60 mph: 4.7 sec",
+            "Zero to 100 mph: 11.8 sec",
+            "Zero to 130 mph: 24.4 sec",
+            "Rolling start, 5-60 mph: 5.8 sec",
+            "Top gear, 30-50 mph: 2.6 sec",
+            "Top gear, 50-70 mph: 3.5 sec",
+            "Standing ¼-mile: 13.4 sec @ 105 mph",
+            "Top speed (governor limited): 130 mph ",
+            "Braking, 70-0 mph: 166 ft",
+            "Roadholding, 300-ft-dia skidpad: 0.84 g"
+        ],
+    "dimension": {
+        "wheelbase": "114.7 in", 
+        "length": "196.2 in", 
+        "width": "75.2 in", 
+        "height": "55.9 in", 
+        "pv": "94 cu ft",
+        "cv": "25 cu ft",
+        "cw": "4234 lb"
+    }, 
+    "description": "If you’re looking for a handsome, curvaceous car that is capable in all kinds of weather, check out the A7. Its sole powertrain is a 333-hp 3.0-liter supercharged V-6, with all-wheel drive and an eight-speed automatic. Tastefully appointed with first-rate materials, the interior is one of the best in the industry. Handling is responsive, brakes are powerful. It may be pricey, but we think it’s worth it. 2015 and 2016 TDI diesels have been stop-saled until further notice due to EPA violations.", 
+   "id": "Audi-A7", 
+    "images": [
+        "img/audia7.0.jpg", 
+        "img/audia7.1.jpg", 
+        "img/audia7.2.jpg", 
+        "img/audia7.3.jpg", 
+        "img/audia7.4.jpg", 
+        "img/audia7.5.jpg"
+    ], 
+    "name": "2016 Audi A7 3.0T Quattro" 
+}

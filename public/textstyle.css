@@ -1,0 +1,46 @@
+.pab{
+    color:#262626;
+    font-size: 20px;
+    font-family: "amaranth", Helvetica, sans-serif;
+    text-align: justify;}
+.pab2{
+    color:#262626;
+    font-size: 18px;
+    font-family: "amaranth", Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.title{
+    padding-top:40px;
+    
+    font: normal 40px "amaranth", Helvetica, sans-serif;
+  color: #262626;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.5) ;
+ 
+}
+.title2{
+    text-align: justify;
+    
+    
+    font: normal 30px "amaranth", Helvetica, sans-serif;
+  color: #262626;
+  
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.5) ;
+}
+body{
+    padding-top:50px;
+}
+
+#message{
+    width: 500px;
+    resize:none;
+    
+}
+#contact1{
+    padding-top: 5px;
+    padding-left: 20px;
+}
+#myIframe{
+    border:none;
+    height:20px;
+}
